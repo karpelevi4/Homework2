@@ -61,7 +61,7 @@ int main() {
 	double f, k;
 	for (k = -4; k <= 4; k += 0.5) {
 		f = (k * k - 2 * k + 2) / (k - 1);
-		cout << "x: " << k << "\ty: " << f << endl;
+		cout << "x: " << k << "\t\ty: " << f << endl;
 	}
 
 
